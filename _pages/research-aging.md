@@ -17,4 +17,4 @@ Selected Publications:
 
 - Schmitz, A. (2021): Gendered experiences of widowhood and depression across Europe. Journal of Affective Disorders, 380, 114–120.
 
-- Brandt, Martina; Garten, Claudius; Grates, Miriam; Kaschowitz, Judith; Quashie, Nek-ehia & Schmitz, Alina (2021): Veränderungen von Wohlbefinden und privater Unter-stützung für Ältere: Ein Blick auf die Auswirkungen der COVID-19-Pandemie im Früh-sommer 2020. Zeitschrift für Gerontologie und Geriatrie, 54 (3), 240-246. [https://doi.org/10.1007/s00391-021-01870-2](https://doi.org/10.1007/s00391-021-01870-2)
+- Brandt, Martina; Garten, Claudius; Grates, Miriam; Kaschowitz, Judith; Quashie, Nek-ehia & Schmitz, Alina (2021): Veränderungen von Wohlbefinden und privater Unterstützung für Ältere: Ein Blick auf die Auswirkungen der COVID-19-Pandemie im Frühsommer 2020. Zeitschrift für Gerontologie und Geriatrie, 54 (3), 240-246. [https://doi.org/10.1007/s00391-021-01870-2](https://doi.org/10.1007/s00391-021-01870-2)
