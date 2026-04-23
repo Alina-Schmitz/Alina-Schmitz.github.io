@@ -8,7 +8,7 @@ author_profile: true
 If you have problems accessing any of these publications, please contact me.
 
 ## Journal articles
-1.**Schmitz, Alina**; Brandt, Martina; Levinsky, Michal; Wagner, Melanie & Cohn-Schwartz, Ella (2026): Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine. Online first: [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
+1. **Schmitz, Alina**; Brandt, Martina; Levinsky, Michal; Wagner, Melanie & Cohn-Schwartz, Ella (2026): Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine. Online first: [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
 2. Alonso-Perez, Enrique; O’Sullivan, Julie; Schnitzler, Susanne; **Schmitz, Alina**; Brandt, Martina & Gellert, Paul (2026): When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592)
 
