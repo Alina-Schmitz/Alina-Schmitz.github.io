@@ -23,7 +23,7 @@ To find out more, please visit the site with my [research projects](https://alin
 
 ## News
 
-## New publication on gender disparities in cognitive performance
+### New publication on gender disparities in cognitive performance
 
 I’m excited to share our latest study on gender disparities in cognitive performance in later life across Europe, co-authored with Martina Brandt, Melanie Wagner, Michal Levinsky and Ella Cohn-Schwartz, PhD.
 Using data from more than adults aged 50+ across 27 countries (SHARE - Survey of Health, Ageing and Retirement in Europe), we developed an index to identify individuals at risk of low cognitive performance and examined how social participation and welfare state contexts shape cognitive aging.
@@ -33,18 +33,19 @@ Key findings:
 * Gender gaps varied strongly by societal context.
 * Low social integration emerged as a  risk factor for low cognitive performance.
 * After accounting for social participation, women demonstrated cognitive advantages even in contexts where disparities were not initially visible.
+
 Our results highlight that cognitive aging is not only an individual or biological process, but also socially and structurally shaped. Strengthening social integration may offer meaningful opportunities to promote cognitive health for both women and men, especially in contexts with more traditional gender roles.
 The article is part of the Social Science & Medicine-Special Issue „Understanding cognitive ageing: individuals, institutions, and inequalities“ (edited by Giulia Tattarini, Ariane Bertogg and Damiano Uccheddu, PhD).
 
 Full text (open access): [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
-## External Fellow of the Einstein Center of Population Diversity 
+### External Fellow of the Einstein Center of Population Diversity 
 
 I’m happy to share that I have been appointed as an External Fellow of the Einstein Center of Population Diversity (ECPD).
 It’s an honor to join this international network of researchers working on population diversity and its societal implications. I’m very much looking forward to the collaboration, new perspectives, and projects ahead!
 Many thanks to the ECPD directors, Paul Gellert and Michaela Kreyenfeld, as well as the coordination team for the warm welcome.
 
-## New publication on informal caregiving
+### New publication on informal caregiving
 
 Care for older relatives is becoming a defining feature of ageing societies. When people step into caregiving matters for its implications in other life domains.
 
@@ -58,7 +59,7 @@ Understanding who enters caregiving earlier can help policymakers and practition
 
 Full text (open access): [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592) 
 
-## New publication on depressive symptoms among widowed adults and the role of support by adult children
+### New publication on depressive symptoms among widowed adults and the role of support by adult children
 
 Widowhood is a major life transition often accompanied by declining mental health, yet the role of adult children in shaping parents’ adjustment remains insufficiently understood. This study uses eight waves of the SHARE - Survey of Health, Ageing and Retirement in Europe to examine how different forms of adult-child support (contact, instrumental help, and geographic proximity) relate to changes in depressive symptoms among widowed women and men.
 By distinguishing between multiple support types, the study provides a more nuanced understanding of when and how adult children’s involvement may ease parents’ emotional adjustment after spousal loss. It contributes to broader debates on intergenerational support by demonstrating that not all forms of help function in the same way and that assumptions about gendered patterns of support may warrant reconsideration.
