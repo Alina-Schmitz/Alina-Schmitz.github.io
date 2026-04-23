@@ -12,7 +12,7 @@ Selected Publications:
 - Schmitz, A.; Luy, M. & Lazarevič, P. (2024): No socioeconomic inequalities in mortality among Catholic monks: A quasi-experiment providing evidence for the Fundamental Cause Theory. Journal of Health and Social Behavior, 66(3), 379–392. [https://doi.org/10.1177/00221465241291847](https://doi.org/10.1177/00221465241291847)
 
 
-- Brandt, M.; Quashie, N. & Schmitz, A. (2023): Health inequalities in older age: The role of socioeconomic resources and social networks in context. In Handbook of Health Inequalities Across the Life Course. Edward Elgar. ISBN:[9781800888159](https://www.e-elgar.com/shop/gbp/handbook-of-health-inequalities-across-the-life-course-9781800888159.html)
+- Brandt, M.; Quashie, N. & Schmitz, A. (2023): Health inequalities in older age: The role of socioeconomic resources and social networks in context. In Handbook of Health Inequalities Across the Life Course. Edward Elgar. ISBN: [9781800888159](https://www.e-elgar.com/shop/gbp/handbook-of-health-inequalities-across-the-life-course-9781800888159.html)
 
 - Schmitz, Alina; Garten, Claudius; Kühne, Simon & Brandt, Martina (2022): Worries about inadequate medical treatment in case of a COVID-19 infection: The role of social inequalities, COVID-19 prevalence and healthcare infrastructure. BMC Public Health, 22(19), 1761. [https://doi.org/10.1186/s12889-022-14024-9](https://doi.org/10.1186/s12889-022-14024-9)
 
