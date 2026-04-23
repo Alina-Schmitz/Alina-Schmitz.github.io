@@ -8,44 +8,49 @@ author_profile: true
 If you have problems accessing any of these publications, please contact me.
 
 ## Journal articles
+1.**Schmitz, Alina**; Brandt, Martina; Levinsky, Michal; Wagner, Melanie & Cohn-Schwartz, Ella (2026): Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine. Online first: [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
-1. **Schmitz, Alina** & Hoffmann, Rasmus (2025): Children’s upward educational mobility as a booster for parents’ subjective well-being in later life. Kölner Zeitschrift für Soziologie und Sozialpsychologie. [https://doi.org/10.1007/s11577-025-01021-0](https://doi.org/10.1007/s11577-025-01021-0-)
+2. Alonso-Perez, Enrique; O’Sullivan, Julie; Schnitzler, Susanne; **Schmitz, Alina**; Brandt, Martina & Gellert, Paul (2026): When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592)
 
-2. **Schmitz, Alina** (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458-465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
+3. Jessee, Lisa; Kim-Knauss, Yaeji; **Schmitz, Alina**; Nashef-Hamuda, Reem; Köttl, Hanna; Cohn-Schwartz, Ella & de Paula Couto, Clara (2025): When parents grieve: Adult child support and depressive symptoms among men and women after widowhood. Research on Aging. Online first: [https://doi.org/10.1177/01640275251404880](https://doi.org/10.1177/01640275251404880)
 
-3. Levinsky, Michal; Wagner, Melanie; **Schmitz, Alina**; Cohn-Schwartz, Ella & Brandt, Martina (2025): Social integration of older men and women across European welfare states: Introducing the Social Integration Index in comparative aging research. Social Indicators Research, 179, 759-779. [https://doi.org/10.1007/s11205-025-03635-](https://doi.org/10.1007/s11205-025-03635-)
+4. **Schmitz, Alina** & Hoffmann, Rasmus (2025): Children’s upward educational mobility as a booster for parents’ subjective well-being in later life. Kölner Zeitschrift für Soziologie und Sozialpsychologie. [https://doi.org/10.1007/s11577-025-01021-0](https://doi.org/10.1007/s11577-025-01021-0-)
 
-4. Micheel, Frank; **Schmitz, Alina** & Brandt, Martina: Facilitators and barriers to potential volunteering in the second half of life: The role of gender and informal caregiving in Germany. Nonprofit and Voluntary Sector Quarterly. Online first: [https://doi.org/10.1177/08997640251374269](https://doi.org/10.1177/08997640251374269)
+5. **Schmitz, Alina** (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458-465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
 
-5. **Schmitz, Alina**; Luy, Marc & Lazarevič, Patrick (2024): No socioeconomic inequalities in mortality among Catholic monks: A quasi-experiment providing evidence for the Fundamental Cause Theory. Journal of Health and Social Behavior. Online first:
+6. Levinsky, Michal; Wagner, Melanie; **Schmitz, Alina**; Cohn-Schwartz, Ella & Brandt, Martina (2025): Social integration of older men and women across European welfare states: Introducing the Social Integration Index in comparative aging research. Social Indicators Research, 179, 759-779. [https://doi.org/10.1007/s11205-025-03635-](https://doi.org/10.1007/s11205-025-03635-)
+
+7. Micheel, Frank; **Schmitz, Alina** & Brandt, Martina: Facilitators and barriers to potential volunteering in the second half of life: The role of gender and informal caregiving in Germany. Nonprofit and Voluntary Sector Quarterly. Online first: [https://doi.org/10.1177/08997640251374269](https://doi.org/10.1177/08997640251374269)
+
+8. **Schmitz, Alina**; Luy, Marc & Lazarevič, Patrick (2024): No socioeconomic inequalities in mortality among Catholic monks: A quasi-experiment providing evidence for the Fundamental Cause Theory. Journal of Health and Social Behavior. Online first:
 [https://doi.org/10.1177/00221465241291847](https://doi.org/10.1177/00221465241291847)
 
-6. Cohn-Schwartz, Ella & **Schmitz, Alina** (2024): From attitudes to social networks: The link between national gender-role attitudes and gender differences in social relationships. Social Networks, 76, 79-87. [https://doi.org/10.1016/j.socnet.2023.08.001](https://doi.org/10.1016/j.socnet.2023.08.001)
+9. Cohn-Schwartz, Ella & **Schmitz, Alina** (2024): From attitudes to social networks: The link between national gender-role attitudes and gender differences in social relationships. Social Networks, 76, 79-87. [https://doi.org/10.1016/j.socnet.2023.08.001](https://doi.org/10.1016/j.socnet.2023.08.001)
 
-7. **Schmitz, Alina**; Quashie, Nekehia, T.; Kaschowitz, Judith & Wagner, Melanie (2024): Inequalities in caregiving strain during the COVID-19 pandemic: Conceptual framework and review of the empirical evidence. International Journal of Care and Caring, 8 (2), 351-364. [https://doi.org/10.1332/239788221X16592761870899](https://doi.org/10.1332/239788221X16592761870899)
+10. **Schmitz, Alina**; Quashie, Nekehia, T.; Kaschowitz, Judith & Wagner, Melanie (2024): Inequalities in caregiving strain during the COVID-19 pandemic: Conceptual framework and review of the empirical evidence. International Journal of Care and Caring, 8 (2), 351-364. [https://doi.org/10.1332/239788221X16592761870899](https://doi.org/10.1332/239788221X16592761870899)
 
-8. **Schmitz, Alina**; Garten, Claudius; Kühne, Simon & Brandt, Martina (2022): Worries about inadequate medical treatment in case of a COVID-19 infection: The role of social inequalities, COVID-19 prevalence and healthcare infrastructure. BMC Public Health, 22(19), 1761. [https://doi.org/10.1186/s12889-022-14024-9](https://doi.org/10.1186/s12889-022-14024-9)
+11. **Schmitz, Alina**; Garten, Claudius; Kühne, Simon & Brandt, Martina (2022): Worries about inadequate medical treatment in case of a COVID-19 infection: The role of social inequalities, COVID-19 prevalence and healthcare infrastructure. BMC Public Health, 22(19), 1761. [https://doi.org/10.1186/s12889-022-14024-9](https://doi.org/10.1186/s12889-022-14024-9)
 
-9. **Schmitz, Alina** & Brandt, Martina (2022): Health limitations, regional care infrastructure and wellbeing in later life: A multilevel analysis of 96 European regions. Social Indicators Research, 164, 693-709. [https://doi.org/10.1007/s11205-022-02967-w](https://doi.org/10.1007/s11205-022-02967-w)
+12. **Schmitz, Alina** & Brandt, Martina (2022): Health limitations, regional care infrastructure and wellbeing in later life: A multilevel analysis of 96 European regions. Social Indicators Research, 164, 693-709. [https://doi.org/10.1007/s11205-022-02967-w](https://doi.org/10.1007/s11205-022-02967-w)
 
-10. **Schmitz, Alina** (2021): Gendered experiences of widowhood and depression across Europe. The role of loneliness and financial resources from a longitudinal perspective. Journal of Affective Disorders, 380, 114-120. [https://doi.org/10.1016/j.jad.2020.11.091](https://doi.org/10.1016/j.jad.2020.11.091)
+13. **Schmitz, Alina** (2021): Gendered experiences of widowhood and depression across Europe. The role of loneliness and financial resources from a longitudinal perspective. Journal of Affective Disorders, 380, 114-120. [https://doi.org/10.1016/j.jad.2020.11.091](https://doi.org/10.1016/j.jad.2020.11.091)
 
-11. Brandt, Martina; Garten, Claudius; Grates, Miriam; Kaschowitz, Judith; Quashie, Nekehia & **Schmitz, Alina** (2021): Veränderungen von Wohlbefinden und privater Unterstützung für Ältere: Ein Blick auf die Auswirkungen der COVID-19-Pandemie im Frühsommer 2020. Zeitschrift für Gerontologie und Geriatrie, 54 (3), 240-246. [https://doi.org/10.1007/s00391-021-01870-2](https://doi.org/10.1007/s00391-021-01870-2)
+14. Brandt, Martina; Garten, Claudius; Grates, Miriam; Kaschowitz, Judith; Quashie, Nekehia & **Schmitz, Alina** (2021): Veränderungen von Wohlbefinden und privater Unterstützung für Ältere: Ein Blick auf die Auswirkungen der COVID-19-Pandemie im Frühsommer 2020. Zeitschrift für Gerontologie und Geriatrie, 54 (3), 240-246. [https://doi.org/10.1007/s00391-021-01870-2](https://doi.org/10.1007/s00391-021-01870-2)
 
-12. Köller, Regine; Matta, Vanita & **Schmitz, Alina** (2021): Qualitätsmaßstäbe und Qualitätssicherung in der rechtlichen Betreuung. Sozialmagazin, 10, 22-29.
+15. Köller, Regine; Matta, Vanita & **Schmitz, Alina** (2021): Qualitätsmaßstäbe und Qualitätssicherung in der rechtlichen Betreuung. Sozialmagazin, 10, 22-29.
 [https://doi.org/10.3262/SM2110022](https://doi.org/10.3262/SM2110022)
 
-13. **Schmitz, Alina** & Lazarevič, Patrick (2020): The gender health gap in Europe’s ageing societies – Universal findings across countries and age groups? European Journal of Ageing, 17, 509-520. [https://doi.org/10.1007/s10433-020-00559-6](https://doi.org/10.1007/s10433-020-00559-6)
+16. **Schmitz, Alina** & Lazarevič, Patrick (2020): The gender health gap in Europe’s ageing societies – Universal findings across countries and age groups? European Journal of Ageing, 17, 509-520. [https://doi.org/10.1007/s10433-020-00559-6](https://doi.org/10.1007/s10433-020-00559-6)
 
-14. **Schmitz, Alina** & Brandt, Martina (2019): Gendered patterns of depression and its determinants in older Europeans. Archives of Gerontology and Geriatrics, 82, 207-216. [https://doi.org/10.1016/j.archger.2019.02.015](https://doi.org/10.1016/j.archger.2019.02.015)
+17. **Schmitz, Alina** & Brandt, Martina (2019): Gendered patterns of depression and its determinants in older Europeans. Archives of Gerontology and Geriatrics, 82, 207-216. [https://doi.org/10.1016/j.archger.2019.02.015](https://doi.org/10.1016/j.archger.2019.02.015)
 
-15. **Schmitz, Alina** (2019): Gesundheitliche Ungleichheiten im Alter: Theoretische Perspektiven und methodische Herausforderungen. Zeitschrift für Gerontologie und Geriatrie, 52 (2), 116-121. [https://doi.org/10.1007/s00391-019-01518-2](https://doi.org/10.1007/s00391-019-01518-2)
+18. **Schmitz, Alina** (2019): Gesundheitliche Ungleichheiten im Alter: Theoretische Perspektiven und methodische Herausforderungen. Zeitschrift für Gerontologie und Geriatrie, 52 (2), 116-121. [https://doi.org/10.1007/s00391-019-01518-2](https://doi.org/10.1007/s00391-019-01518-2)
 
-16. **Schmitz, Alina**; Matta, Vanita & Engels, Dietrich (2019): Selbstbestimmte Lebensführung durch rechtliche Betreuung? Ausgewählte Ergebnisse der Studie‚ Qualität in der rechtlichen Betreuung‘. Klinische Sozialarbeit – Zeitschrift für psychosoziale Praxis und Forschung, 15(1), 11-15.
+19. **Schmitz, Alina**; Matta, Vanita & Engels, Dietrich (2019): Selbstbestimmte Lebensführung durch rechtliche Betreuung? Ausgewählte Ergebnisse der Studie‚ Qualität in der rechtlichen Betreuung‘. Klinische Sozialarbeit – Zeitschrift für psychosoziale Praxis und Forschung, 15(1), 11-15.
 
-17. **Schmitz, Alina** & Pförtner, Timo-Kolja (2018): Health inequalities in old age: The relative contribution of material, behavioral and psychosocial factors in a German sample. Journal of Public Health, 40 (3), e235-e243. [https://doi.org/10.1093/pubmed/fdx180](https://doi.org/10.1093/pubmed/fdx180)
+20. **Schmitz, Alina** & Pförtner, Timo-Kolja (2018): Health inequalities in old age: The relative contribution of material, behavioral and psychosocial factors in a German sample. Journal of Public Health, 40 (3), e235-e243. [https://doi.org/10.1093/pubmed/fdx180](https://doi.org/10.1093/pubmed/fdx180)
 
-18. Engels, Dietrich; Matta, Vanita Irene; Maur, Christine & **Schmitz, Alina** (2017): Qualität in der rechtlichen Betreuung. Erste Ergebnisse der rechtstatsächlichen Untersuchung im Auftrag des BMJV. Btprax 26, 53-58.
+21. Engels, Dietrich; Matta, Vanita Irene; Maur, Christine & **Schmitz, Alina** (2017): Qualität in der rechtlichen Betreuung. Erste Ergebnisse der rechtstatsächlichen Untersuchung im Auftrag des BMJV. Btprax 26, 53-58.
 
 ## Monographs
 
