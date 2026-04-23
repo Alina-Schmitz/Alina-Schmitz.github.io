@@ -68,6 +68,7 @@ Key results:
 •	Instrumental support (e.g., help with chores or personal care) was associated with larger increases in depressive symptoms, possibly reflecting worsening health or care needs.
 •	Living close (within 25 km) was beneficial, whereas co-residence with a child was linked to greater increases in depressive symptoms.
 •	No major gender differences emerged.
+
 Full text (open access): [https://doi.org/10.1177/01640275251404880](https://doi.org/10.1177/01640275251404880) 
 
 ### New Publication!
