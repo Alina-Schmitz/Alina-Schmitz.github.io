@@ -36,7 +36,7 @@ Key findings:
 Our results highlight that cognitive aging is not only an individual or biological process, but also socially and structurally shaped. Strengthening social integration may offer meaningful opportunities to promote cognitive health for both women and men, especially in contexts with more traditional gender roles.
 The article is part of the Social Science & Medicine-Special Issue „Understanding cognitive ageing: individuals, institutions, and inequalities“ (edited by Giulia Tattarini, Ariane Bertogg and Damiano Uccheddu, PhD).
 
-Full text (open access): [https://doi.org/10.1016/j.socscimed.2026.119070]
+Full text (open access): [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
 ## External Fellow of the Einstein Center of Population Diversity 
 
@@ -56,7 +56,7 @@ Our findings show that caregiving onset is not evenly distributed across society
 
 Understanding who enters caregiving earlier can help policymakers and practitioners design more targeted support. 
 
-Full text (open access): https://doi.org/10.1017/S0144686X26100592  
+Full text (open access): [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592) 
 
 ## New publication on depressive symptoms among widowed adults and the role of support by adult children
 
@@ -68,7 +68,7 @@ Key results:
 •	Instrumental support (e.g., help with chores or personal care) was associated with larger increases in depressive symptoms, possibly reflecting worsening health or care needs.
 •	Living close (within 25 km) was beneficial, whereas co-residence with a child was linked to greater increases in depressive symptoms.
 •	No major gender differences emerged.
-Full text (open access): [https://doi.org/10.1177/01640275251404880] 
+Full text (open access): [https://doi.org/10.1177/01640275251404880](https://doi.org/10.1177/01640275251404880) 
 
 ### New Publication!
 
