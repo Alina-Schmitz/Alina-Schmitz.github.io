@@ -9,9 +9,9 @@ How do welfare regimes and social policies shape inequalities in health, income,
 
 Selected Publications:
 
-- Schmitz, A. (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458–465.
+- Schmitz, A. (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458–465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
 
-- Levinsky, M.; Wagner, M.; Schmitz, A.; Cohn-Schwartz, E. & Brandt, M. (2025): Social integration of older men and women across European welfare states. Social Indicators Research, 179, 759–779.
+- Levinsky, M., Wagner, M., Schmitz, A. et al. Introducing the Social Integration Index for Older Europeans: The Role of Gender and Care Regimes. Soc Indic Res 179, 759–779 (2025). [https://doi.org/10.1007/s11205-025-03635-5](https://doi.org/10.1007/s11205-025-03635-5)
 
 - Schmitz, Alina; Quashie, Nekehia, T.; Kaschowitz, Judith & Wagner, Melanie (2024): Inequalities in caregiving strain during the COVID-19 pandemic: Conceptual framework and review of the empirical evidence. International Journal of Care and Caring, 8 (2), 351-364. [https://doi.org/10.1332/239788221X16592761870899](https://doi.org/10.1332/239788221X16592761870899)
 
