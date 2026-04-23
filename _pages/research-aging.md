@@ -9,12 +9,12 @@ What enables or hinders older adults’ social participation and connectedness? 
 
 Selected Publications:
 
-- Levinsky, M.; Wagner, M.; Schmitz, A.; Cohn-Schwartz, E. & Brandt, M. (2025): Social integration of older men and women across European welfare states: Introducing the Social Integration Index in comparative aging research. Social Indicators Research, 179, 759–779.
+- Levinsky, M.; Wagner, M.; Schmitz, A.; Cohn-Schwartz, E. & Brandt, M. (2025): Social integration of older men and women across European welfare states: Introducing the Social Integration Index in comparative aging research. Social Indicators Research, 179, 759–779. [https://doi.org/10.1007/s11205-025-03635-5](https://doi.org/10.1007/s11205-025-03635-5)
 
-- Micheel, F.; Schmitz, A. & Brandt, M. (2025): Facilitators and barriers to volunteering in the second half of life: The role of gender and informal caregiving in Germany. Nonprofit and Voluntary Sector Quarterly.
+- Micheel, F.; Schmitz, A. & Brandt, M. (2025): Facilitators and barriers to volunteering in the second half of life: The role of gender and informal caregiving in Germany. Nonprofit and Voluntary Sector Quarterly. [https://doi.org/10.1177/089976402513742](https://doi.org/10.1177/089976402513742)
 
-- Cohn-Schwartz, E. & Schmitz, A. (2024): From attitudes to social networks: The link between national gender-role attitudes and gender differences in social relationships. Social Networks, 76, 79–87.
+- Cohn-Schwartz, E. & Schmitz, A. (2024): From attitudes to social networks: The link between national gender-role attitudes and gender differences in social relationships. Social Networks, 76, 79–87. [https://doi.org/10.1016/j.socnet.2023.08.001](https://doi.org/10.1016/j.socnet.2023.08.001)
 
-- Schmitz, A. (2021): Gendered experiences of widowhood and depression across Europe. Journal of Affective Disorders, 380, 114–120.
+- Schmitz, A. (2021): Gendered experiences of widowhood and depression across Europe. Journal of Affective Disorders, 380, 114–120. [https://doi.org/10.1016/j.jad.2020.11.091](https://doi.org/10.1016/j.jad.2020.11.091)
 
 - Brandt, Martina; Garten, Claudius; Grates, Miriam; Kaschowitz, Judith; Quashie, Nekehia & Schmitz, Alina (2021): Veränderungen von Wohlbefinden und privater Unterstützung für Ältere: Ein Blick auf die Auswirkungen der COVID-19-Pandemie im Frühsommer 2020. Zeitschrift für Gerontologie und Geriatrie, 54 (3), 240-246. [https://doi.org/10.1007/s00391-021-01870-2](https://doi.org/10.1007/s00391-021-01870-2)
