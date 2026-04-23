@@ -11,7 +11,6 @@ Selected Publications:
 
 - Schmitz, A.; Luy, M. & Lazarevič, P. (2024): No socioeconomic inequalities in mortality among Catholic monks: A quasi-experiment providing evidence for the Fundamental Cause Theory. Journal of Health and Social Behavior, 66(3), 379–392. [https://doi.org/10.1177/00221465241291847](https://doi.org/10.1177/00221465241291847)
 
-
 - Brandt, M.; Quashie, N. & Schmitz, A. (2023): Health inequalities in older age: The role of socioeconomic resources and social networks in context. In Handbook of Health Inequalities Across the Life Course. Edward Elgar. ISBN: [9781800888159](https://www.e-elgar.com/shop/gbp/handbook-of-health-inequalities-across-the-life-course-9781800888159.html)
 
 - Schmitz, Alina; Garten, Claudius; Kühne, Simon & Brandt, Martina (2022): Worries about inadequate medical treatment in case of a COVID-19 infection: The role of social inequalities, COVID-19 prevalence and healthcare infrastructure. BMC Public Health, 22(19), 1761. [https://doi.org/10.1186/s12889-022-14024-9](https://doi.org/10.1186/s12889-022-14024-9)
@@ -22,6 +21,6 @@ Selected Publications:
 
 - Schmitz, Alina & Brandt, Martina (2019): Gendered patterns of depression and its de-terminants in older Europeans. Archives of Gerontology and Geriatrics, 82, 207-216. [https://doi.org/10.1016/j.archger.2019.02.015](https://doi.org/10.1016/j.archger.2019.02.015)
 
-- Schmitz, A. (2019): Gesundheitliche Ungleichheiten im Alter: Theoretische Perspektiven und methodische Herausforderungen. Zeitschrift für Gerontologie und Geriatrie, 52(2), 116–121.
+- Schmitz, A. (2019): Gesundheitliche Ungleichheiten im Alter: Theoretische Perspektiven und methodische Herausforderungen. Zeitschrift für Gerontologie und Geriatrie, 52(2), 116–121. [https://doi.org/10.1007/s00391-019-01518-2](https://doi.org/10.1007/s00391-019-01518-2)
 
-- Schmitz, A. & Pförtner, T.-K. (2018): Health inequalities in old age: The relative contribution of material, behavioral and psychosocial factors in a German sample. Journal of Public Health, 40(3), e235–e243.
+- Schmitz, A. & Pförtner, T.-K. (2018): Health inequalities in old age: The relative contribution of material, behavioral and psychosocial factors in a German sample. Journal of Public Health, 40(3), e235–e243. [https://doi.org/10.1093/pubmed/fdx180](https://doi.org/10.1093/pubmed/fdx180)
