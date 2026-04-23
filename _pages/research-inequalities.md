@@ -9,6 +9,6 @@ How do family relationships and intergenerational exchanges shape subjective and
 
 Selected Publications:
 
-- Schmitz, Alina & Hoffmann, Rasmus (2025, forthcoming): Children’s upward educa-tional mobility as a booster for parents’ subjective well-being in later life. Kölner Zeitschrift für Soziologie und Sozialpsychologie.
+- Schmitz, Alina & Hoffmann, Rasmus (2025): Children’s upward educational mobility as a booster for parents’ subjective well-being in later life. Kölner Zeitschrift für Soziologie und Sozialpsychologie. [https://doi.org/10.1007/s11577-025-01021-0](https://doi.org/10.1007/s11577-025-01021-0)
 
 - Schmitz, Alina (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458-465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
