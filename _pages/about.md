@@ -24,6 +24,7 @@ To find out more, please visit the site with my [research projects](https://alin
 ## News
 
 ## New publication on gender disparities in cognitive performance
+
 I’m excited to share our latest study on gender disparities in cognitive performance in later life across Europe, co-authored with Martina Brandt, Melanie Wagner, Michal Levinsky and Ella Cohn-Schwartz, PhD.
 Using data from more than adults aged 50+ across 27 countries (SHARE - Survey of Health, Ageing and Retirement in Europe), we developed an index to identify individuals at risk of low cognitive performance and examined how social participation and welfare state contexts shape cognitive aging.
 
@@ -34,9 +35,11 @@ Key findings:
  • After accounting for social participation, women demonstrated cognitive advantages even in contexts where disparities were not initially visible.
 Our results highlight that cognitive aging is not only an individual or biological process, but also socially and structurally shaped. Strengthening social integration may offer meaningful opportunities to promote cognitive health for both women and men, especially in contexts with more traditional gender roles.
 The article is part of the Social Science & Medicine-Special Issue „Understanding cognitive ageing: individuals, institutions, and inequalities“ (edited by Giulia Tattarini, Ariane Bertogg and Damiano Uccheddu, PhD).
-Full text (open access): https://doi.org/10.1016/j.socscimed.2026.119070 
 
-External Fellow of the Einstein Center of Population Diversity 
+Full text (open access): [https://doi.org/10.1016/j.socscimed.2026.119070]
+
+## External Fellow of the Einstein Center of Population Diversity 
+
 I’m happy to share that I have been appointed as an External Fellow of the Einstein Center of Population Diversity (ECPD).
 It’s an honor to join this international network of researchers working on population diversity and its societal implications. I’m very much looking forward to the collaboration, new perspectives, and projects ahead!
 Many thanks to the ECPD directors, Paul Gellert and Michaela Kreyenfeld, as well as the coordination team for the warm welcome.
@@ -50,7 +53,9 @@ Our findings show that caregiving onset is not evenly distributed across society
 •	For intra-generational care (partners, siblings), the gap between social groups can be as large as 11 years.
 •	For intergenerational care (parents, in-laws), the maximum gap is 4 years.
 •	These differences are intersectional, with gender and socio-economic characteristics shaping caregiving onset.
+
 Understanding who enters caregiving earlier can help policymakers and practitioners design more targeted support. 
+
 Full text (open access): https://doi.org/10.1017/S0144686X26100592  
 
 ## New publication on depressive symptoms among widowed adults and the role of support by adult children
@@ -63,7 +68,7 @@ Key results:
 •	Instrumental support (e.g., help with chores or personal care) was associated with larger increases in depressive symptoms, possibly reflecting worsening health or care needs.
 •	Living close (within 25 km) was beneficial, whereas co-residence with a child was linked to greater increases in depressive symptoms.
 •	No major gender differences emerged.
-Full text (open access): https://doi.org/10.1177/01640275251404880 
+Full text (open access): [https://doi.org/10.1177/01640275251404880] 
 
 ### New Publication!
 
