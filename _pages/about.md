@@ -29,10 +29,10 @@ I’m excited to share our latest study on gender disparities in cognitive perfo
 Using data from more than adults aged 50+ across 27 countries (SHARE - Survey of Health, Ageing and Retirement in Europe), we developed an index to identify individuals at risk of low cognitive performance and examined how social participation and welfare state contexts shape cognitive aging.
 
 Key findings:
- • Women showed a cognitive advantage in several welfare regimes.
- • Gender gaps varied strongly by societal context.
- • Low social integration emerged as a  risk factor for low cognitive performance.
- • After accounting for social participation, women demonstrated cognitive advantages even in contexts where disparities were not initially visible.
+* Women showed a cognitive advantage in several welfare regimes.
+* Gender gaps varied strongly by societal context.
+* Low social integration emerged as a  risk factor for low cognitive performance.
+* After accounting for social participation, women demonstrated cognitive advantages even in contexts where disparities were not initially visible.
 Our results highlight that cognitive aging is not only an individual or biological process, but also socially and structurally shaped. Strengthening social integration may offer meaningful opportunities to promote cognitive health for both women and men, especially in contexts with more traditional gender roles.
 The article is part of the Social Science & Medicine-Special Issue „Understanding cognitive ageing: individuals, institutions, and inequalities“ (edited by Giulia Tattarini, Ariane Bertogg and Damiano Uccheddu, PhD).
 
@@ -50,9 +50,9 @@ Care for older relatives is becoming a defining feature of ageing societies. Whe
 
 Using data from the SHARE - Survey of Health, Ageing and Retirement in Europe, we examined who becomes a daily caregiver between ages 50 and 95, and at what age this transition happens.
 Our findings show that caregiving onset is not evenly distributed across society.
-•	For intra-generational care (partners, siblings), the gap between social groups can be as large as 11 years.
-•	For intergenerational care (parents, in-laws), the maximum gap is 4 years.
-•	These differences are intersectional, with gender and socio-economic characteristics shaping caregiving onset.
+* For intra-generational care (partners, siblings), the gap between social groups can be as large as 11 years.
+* For intergenerational care (parents, in-laws), the maximum gap is 4 years.
+* These differences are intersectional, with gender and socio-economic characteristics shaping caregiving onset.
 
 Understanding who enters caregiving earlier can help policymakers and practitioners design more targeted support. 
 
@@ -64,10 +64,10 @@ Widowhood is a major life transition often accompanied by declining mental healt
 By distinguishing between multiple support types, the study provides a more nuanced understanding of when and how adult children’s involvement may ease parents’ emotional adjustment after spousal loss. It contributes to broader debates on intergenerational support by demonstrating that not all forms of help function in the same way and that assumptions about gendered patterns of support may warrant reconsideration.
 
 Key results:
-•	Frequent contact with at least one child buffered the increase in depressive symptoms after widowhood.
-•	Instrumental support (e.g., help with chores or personal care) was associated with larger increases in depressive symptoms, possibly reflecting worsening health or care needs.
-•	Living close (within 25 km) was beneficial, whereas co-residence with a child was linked to greater increases in depressive symptoms.
-•	No major gender differences emerged.
+* Frequent contact with at least one child buffered the increase in depressive symptoms after widowhood.
+* Instrumental support (e.g., help with chores or personal care) was associated with larger increases in depressive symptoms, possibly reflecting worsening health or care needs.
+* Living close (within 25 km) was beneficial, whereas co-residence with a child was linked to greater increases in depressive symptoms.
+* No major gender differences emerged.
 
 Full text (open access): [https://doi.org/10.1177/01640275251404880](https://doi.org/10.1177/01640275251404880) 
 
