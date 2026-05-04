@@ -7,7 +7,7 @@ author_profile: true
 
 What enables or hinders older adults’ social participation and connectedness? How do gender, care responsibilities, and welfare systems influence patterns of integration, volunteering, and loneliness in later life? My work explores these questions through both national and cross-national lenses.
 
-Selected Publications:
+**Selected Publications:**
 
 - Alonso-Perez, E., O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., & Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. https://doi.org/10.1017/S0144686X26100592
 
