@@ -7,7 +7,7 @@ author_profile: true
 
 My research contributes to evidence-based policy development in the areas of social inclusion, disability policy, and care systems. I conduct and co-author evaluations and reports that assess the implementation and impact of social policies and programs in Germany. These studies focus on improving quality standards in legal guardianship, enhancing early support for families, and promoting participation and equal opportunities for people with disabilities.
 
-Selected Publications:
+**Selected Publications:**
 
 - Schmitz, Alina; Köller, Regine & Engels, Dietrich (2023): Bundesweite Recherche zu Praxismodellen der Willkommensbesuche. Materialien zu Frühen Hilfen 16. Köln: Nationales Zentrum Frühe Hilfen (NZFH).
 
