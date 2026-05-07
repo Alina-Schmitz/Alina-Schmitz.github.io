@@ -9,9 +9,9 @@ What enables or hinders older adults’ social participation and connectedness? 
 
 **Selected Publications:**
 
-- Alonso-Perez, E., O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., & Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. https://doi.org/10.1017/S0144686X26100592
+- Alonso-Perez, E., O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., & Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592)
 
-- Schmitz, A., Brandt, M., Levinsky, M., Wagner, M., & Cohn-Schwartz, E. (2026). Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine, 394, 119070. https://doi.org/10.1016/j.socscimed.2026.119070
+- Schmitz, A., Brandt, M., Levinsky, M., Wagner, M., & Cohn-Schwartz, E. (2026). Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine, 394, 119070. [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
 - Jessee, L., Kim-Knauss, Y., Schmitz, A., Nashef-Hamuda, R., Köttl, H., Cohn-Schwartz, E., & De Paula Couto, M. C. P. (2025). When Parents Grieve: Adult Child Support and Depressive Symptoms Among Men and Women After Widowhood. Research on Aging, 01640275251404880. https://doi.org/10.1177/01640275251404880
 
