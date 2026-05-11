@@ -8,7 +8,7 @@ author_profile: true
 How do welfare regimes and social policies shape inequalities in health, income, and social participation across Europe? How do institutional structures influence aging experiences and social integration? This research uses cross-national data to understand the role of policy contexts.
 
 **Selected Publications:**
-- Schmitz, A., Brandt, M., Levinsky, M., Wagner, M., & Cohn-Schwartz, E. (2026). Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine, 394, 119070. https://doi.org/10.1016/j.socscimed.2026.119070
+- Schmitz, A., Brandt, M., Levinsky, M., Wagner, M., & Cohn-Schwartz, E. (2026). Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine, 394, 119070. [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
 - Schmitz, A. (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458–465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
 
