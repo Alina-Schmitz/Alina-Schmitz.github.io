@@ -4,15 +4,16 @@ title: "Comparative Welfare State and Cross-national Research"
 permalink: /research/cross-national/
 author_profile: true
 ---
-
 How do welfare regimes and social policies shape inequalities in health, income, and social participation across Europe? How do institutional structures influence aging experiences and social integration? This research uses cross-national data to understand the role of policy contexts.
 
-**Selected Publications:**
+### Selected Publications:
+- Alonso-Perez, E., O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., & Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. https://doi.org/10.1017/S0144686X26100592
+
 - Schmitz, A., Brandt, M., Levinsky, M., Wagner, M., & Cohn-Schwartz, E. (2026). Exploring gender disparities in cognitive performance in later life: The role of social participation across European welfare regimes. Social Science & Medicine, 394, 119070. [https://doi.org/10.1016/j.socscimed.2026.119070](https://doi.org/10.1016/j.socscimed.2026.119070)
 
 - Schmitz, A. (2025): Parental education and income in later life: A comparison of social-democratic and conservative regimes. Zeitschrift für Gerontologie und Geriatrie, 58, 458–465. [https://doi.org/10.1007/s00391-025-02475-9](https://doi.org/10.1007/s00391-025-02475-9)
 
-- Levinsky, M., Wagner, M., Schmitz, A. et al. Introducing the Social Integration Index for Older Europeans: The Role of Gender and Care Regimes. Soc Indic Res 179, 759–779 (2025). [https://doi.org/10.1007/s11205-025-03635-5](https://doi.org/10.1007/s11205-025-03635-5)
+- Levinsky, M., Wagner, M., Schmitz, A., et al. (2025). Introducing the social integration index for older Europeans: The role of gender and care regimes. Social Indicators Research, 179, 759–779. [https://doi.org/10.1007/s11205-025-03635-5](https://doi.org/10.1007/s11205-025-03635-5)
 
 - Schmitz, Alina; Quashie, Nekehia, T.; Kaschowitz, Judith & Wagner, Melanie (2024): Inequalities in caregiving strain during the COVID-19 pandemic: Conceptual framework and review of the empirical evidence. International Journal of Care and Caring, 8 (2), 351-364. [https://doi.org/10.1332/239788221X16592761870899](https://doi.org/10.1332/239788221X16592761870899)
 
