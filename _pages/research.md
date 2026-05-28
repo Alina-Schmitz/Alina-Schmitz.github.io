@@ -4,7 +4,6 @@ title: "Research Interests & Projects"
 permalink: /research/
 author_profile: true
 ---
-
 Below you find an overview of my research interests and topics of expertise. In each topic, you find a short summary of my research and selected publications.
 ## [Socioeconomic and Gender Inequalities in Health Across the Life Course](/research/inequalities)
 
