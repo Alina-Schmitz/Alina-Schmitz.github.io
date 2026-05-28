@@ -4,8 +4,8 @@ title: "Research Interests & Projects"
 permalink: /research/
 author_profile: true
 ---
-Below you find an overview of my research interests and topics of expertise. In each topic, you find a short summary of my research and selected publications.
 
+Below you find an overview of my research interests and topics of expertise. In each topic, you find a short summary of my research and selected publications.
 ## [Socioeconomic and Gender Inequalities in Health Across the Life Course](/research/inequalities)
 
 How do socioeconomic and gendered factors shape health and well-being from midlife to old age? How do inequalities in health and well-being present across different contexts? My research examines the social and gendered determinants of health disparities and their implications for aging populations across Europe.
