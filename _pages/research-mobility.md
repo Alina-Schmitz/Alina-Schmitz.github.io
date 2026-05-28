@@ -4,8 +4,7 @@ title: "Intergenerational Relations, Caregiving and Social Mobility"
 permalink: /research/mobility/
 author_profile: true
 ---
-
-How do family relationships, intergenerational exchanges, and informal caregiving shape subjective and financial well-being across the life course? What role does children’s upward educational mobility play in influencing the life satisfaction and health of their parents? This line of research examines how family ties, caregiving responsibilities, and intergenerational support intersect with inequality, health, and life-course trajectories, connecting family sociology with broader questions of social mobility and aging.
+How do family relationships and intergenerational exchanges shape subjective and financial well-being in later life? What role does children’s upward educational mobility play in influencing the life satisfaction and health of their parents? This line of research connects family sociology with questions of inequality and life-course trajectories.
 
 ### Selected Publications:
 Alonso-Perez, E., O’Sullivan, J. L., Schnitzer, S., Schmitz, A., Brandt, M., & Gellert, P. (2026). When to care? A MAIHDA analysis of intersectional inequalities in the age of caregiving onset using European longitudinal data. Ageing and Society, 46, e34. [https://doi.org/10.1017/S0144686X26100592](https://doi.org/10.1017/S0144686X26100592)
