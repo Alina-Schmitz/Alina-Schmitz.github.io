@@ -9,7 +9,7 @@ Below you find an overview of my research interests and topics of expertise. In 
 
 How do socioeconomic and gendered factors shape health and well-being from midlife to old age? How do inequalities in health and well-being present across different contexts? My research examines the social and gendered determinants of health disparities and their implications for aging populations across Europe.
 
-## [Intergenerational Relations and Social Mobility](/research/mobility)
+## [Intergenerational Relations, Caregiving and Social Mobility](/research/mobility)
 
 How do family relationships and intergenerational exchanges shape subjective and financial well-being in later life? What role does children’s upward educational mobility play in influencing the life satisfaction and health of their parents? This line of research connects family sociology with questions of inequality and life-course trajectories.
 
